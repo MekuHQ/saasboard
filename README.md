@@ -18,7 +18,7 @@ Explore the modern SaaS dashboard design with built-in KPI tracking, reports, an
 
 ## Features
 
--   **Comprehensive Tools Page**: Pre-built layouts for metrics visualization, and SaaS tools dashboards.
+-   **Comprehensive Tools Page**: Pre-built layouts for metrics visualization and SaaS tools dashboards.
 
 -   **Reports**: Generate and manage analytics and KPI reports
 
